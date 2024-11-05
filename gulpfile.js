@@ -99,3 +99,6 @@ export const runProd = gulp.series(
   runCommand('VITE_MODE=production node server/server.js'),       
   openBrowser      
 );
+
+// Default task for npm start
+export const runDefault = process.env.VITE_MODE === 'production' ? runProd : runDev;

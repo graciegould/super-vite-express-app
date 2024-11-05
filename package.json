@@ -4,11 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start" : "gulp runDefault",
     "dev": "gulp runDev",
     "build": "gulp build",
     "lint": "eslint .",
     "prod": "gulp runProd",
-    "start": "node server/server.js",
     "start:dev": "VITE_MODE=development node server/server.js",
     "start:prod": "VITE_MODE=production node server/server.js"
   },
