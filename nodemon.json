@@ -1,0 +1,14 @@
+{
+    "watch": [
+        "server"
+    ],
+    "ext": "js,json",
+    "ignore": [
+        "src/",
+        "dist/"
+    ],
+    "exec": "VITE_MODE=development node server/server.js",
+    "env": {
+        "NODE_ENV": "development"
+    }
+}
