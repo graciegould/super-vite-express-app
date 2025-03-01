@@ -4,7 +4,15 @@
 
 This boilerplate is designed to fit a wide range of projects, giving you a simple yet flexible setup for building full-stack applications. Intended to fit the needs of many, this template is built as a starting point for quick development and deployment.
 
-## What This Boilerplate Offers
+## TODO!!
+
+### 1. Move Vite to Dev Dependencies 
+
+### 2. Load Vite Only in Development Mode
+
+### 3. Migrate to typescript
+
+### 4. Remove watch-css and Use sass-embedded
 
 - **Same Origin API Routing Setup**: API routes are auto-loaded from the `api/routes/` folder based on folder names -> file names -> exported paths.
 - **Enhanced Development Tools**: Utilizes Vite's fast bundling, hot module replacement, and SCSS to CSS compilation for a smooth and efficient development experience. Automatic server reloads keep your workflow fast and responsive.
