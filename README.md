@@ -14,13 +14,10 @@ This boilerplate is designed to fit a wide range of projects, giving you a simpl
 
 ### 4. Remove watch-css and Use sass-embedded
 
-- **Same Origin API Routing Setup**: API routes are auto-loaded from the `api/routes/` folder based on folder names -> file names -> exported paths.
-- **Enhanced Development Tools**: Utilizes Vite's fast bundling, hot module replacement, and SCSS to CSS compilation for a smooth and efficient development experience. Automatic server reloads keep your workflow fast and responsive.
-- **Custom Workflows**: Preconfigured scripts for development, production, and deployment allow you to tailor the workflow to suit your project's specific needs.
-- **Seamless Deployment**: The boilerplate includes a production-ready build process, with Express serving the optimized frontend from the `dist` folder.
-- **Extensibility**: Both the frontend and backend components are easily extendable for a wide range of projects.
-
 ***This boilerplate is designed to be flexible, allowing you to experiment with different architectural choices as your project evolves.***
+
+- **Same Origin API Routing Setup**: API routes are auto-loaded from the `api/routes/` folder based on folder names -> file names -> exported paths.
+- **Custom Workflows**: Preconfigured scripts for development, production, and deployment allow you to tailor the workflow to suit your project's specific needs.
 
 ## Using NPX to Create Your Own Project
 ```bash
