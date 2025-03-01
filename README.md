@@ -2,8 +2,6 @@
 
 **Super Vite Express App** is a flexible boilerplate that brings together [Vite](https://vitejs.dev/) for front-end development and [Express](https://expressjs.com/) for backend API routing, with React as the default framework. It’s built to make full-stack JavaScript apps easy to develop, offering clean, customizable API routing on the same origin, powerful dev tools, and workflows you can tailor to your needs.
 
-This boilerplate is designed to fit a wide range of projects, giving you a simple yet flexible setup for building full-stack applications. Intended to fit the needs of many, this template is built as a starting point for quick development and deployment.
-
 ## TODO!!
 
 ### 1. Move Vite to Dev Dependencies 
